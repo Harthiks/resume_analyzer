@@ -179,8 +179,8 @@ npm run build
 ## Admin Access
 
 Default admin credentials (seeded automatically):
-- Email: `Harthikspoonja@gmail.com`
-- Password: `Harthik@1408`
+- Email:
+- Password: 
 - Access: `/dashboard/admin`
 
 ---
